@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/calum/Desktop/untitled/dllist.c
+dllist.h
+/Users/calum/Desktop/untitled/dllist.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+
+/Users/calum/Desktop/untitled/dllist.h
+zconf.h
+-
+
